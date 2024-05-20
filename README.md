@@ -4,7 +4,7 @@
 - rails db:migrate
 - rails db:seed
 - rails s
-- To test CMS make sure `firekamp-web`  is running on a different port (eg localhost:3001)
+- To test CMS make sure `entity-web`  is running on a different port (eg localhost:3001)
 
 API Documentation: https://documenter.getpostman.com/view/13242814/2sA3Bn7YHx
 
